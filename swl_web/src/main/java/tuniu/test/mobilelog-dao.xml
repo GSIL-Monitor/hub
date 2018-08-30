@@ -1,0 +1,8 @@
+<!--<bean name="SandboxLogDao" parent="parentDao">-->
+    <!--<property name="proxyInterfaces" value="com.dianping.mobile.basic.prisma.dao.SandboxLogDao"/>-->
+    <!--<property name="target">-->
+        <!--<bean parent="mobilelog.daoRealizeTarget">-->
+            <!--<constructor-arg value="SandboxLog"/>-->
+        <!--</bean>-->
+    <!--</property>-->
+<!--</bean>-->

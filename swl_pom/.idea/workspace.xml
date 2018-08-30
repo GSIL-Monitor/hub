@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="2" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="swl_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ba83adb-8014-400b-8bfb-c9e9c1b76899" name="Default" comment="" />
+    <ignored path="swl_pom.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/swl_web/target/" />
+    <ignored path="$PROJECT_DIR$/../swl_web/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/../swl_service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/swl_pom$testDe.coverage" NAME="testDe Coverage Results" MODIFIED="1511491969507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tuniu.njsp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/swl_pom$RedisTestTest.coverage" NAME="RedisTestTest Coverage Results" MODIFIED="1502266317181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.com.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="swl_pom" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FirstRestBean.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/bean/FirstRestBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#744#745#0" expanded="true" />
+                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1094">
+              <caret line="168" column="21" lean-forward="true" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainConTroller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/MainConTroller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainConTrollerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../swl_web/src/test/tuniu/controller/MainConTrollerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Kotlin Class" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>大图监控</find>
+      <find>initWebAppContext</find>
+      <find>javax/servlet/SessionCookieConfig</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/code1/aic" value="7455140768300" />
+        <entry key="$USER_HOME$/code1/core" value="5931661221393" />
+        <entry key="$USER_HOME$/code1/op_master" value="5938521486031" />
+        <entry key="$USER_HOME$/code1/tda_server" value="5953827503416" />
+        <entry key="$USER_HOME$/code1/tda_server_test" value="5934424605060" />
+        <entry key="D:/新建文件夹/openapi-common" value="4443619235707" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/bridge/Client.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/decator/ICar.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/decator/Car.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/decator/SuperCar.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/decator/WaterCar.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/decator/AutoCar.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/xiangyuan/Feigongxiang.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/xiangyuan/IChess.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/xiangyuan/Chess.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/xiangyuan/ChessFactory.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/xiangyuan/Client.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/chainOfRespo/ILeader.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/chainOfRespo/LowManager.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/chainOfRespo/HighManager.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/chainOfRespo/Client.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/decator/Client.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/danli/DanliDemo03.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/spring/di/ProfileDemo1.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/spring/di/ProfileDemo2.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/MvcConfig.java" />
+        <option value="$PROJECT_DIR$/../swl_service/pom.xml" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/tuniu/njsp/testDe.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/zuhe/AbstractFile.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/tuniu/njsp/TestBean.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/test/com/RedisTestTest.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/sjms/chainOfRespo/ALeader.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/ProfileControler.java" />
+        <option value="$PROJECT_DIR$/../swl_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/db/dao/userMapperDao.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/resources/sqlMap/User.xml" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/TestMybatis.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/log.txt" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/fork/SandboxForkJoinTask.java" />
+        <option value="$PROJECT_DIR$/../swl_service/src/main/java/test/com/ObjectTest.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SanboxLogServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SandboxDto.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SanboxLogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SandboxLogDao.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/sqlmap.xml" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/sandbox-log.xml" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SanboxLogService.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/mobilelog-dao.xml" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/spittr/SpittrWebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/spittr/WebConfig.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/spittr/RootConfig.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/bean/FirstRestBean.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/MainConTroller.java" />
+        <option value="$PROJECT_DIR$/../swl_web/src/test/tuniu/controller/MainConTrollerTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/java/maven-3.2.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="swl_service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_pom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tuniu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tuniu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="tuniu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swl_pom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swl_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="tuniu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="D:\迪风工作软件\nodeJs\node.exe" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="SearchEverywhereHistoryKey" value="StandaloneMockMvcBuilder&#9;PSI&#9;JAVA://org.springframework.test.web.servlet.setup.StandaloneMockMvcBuilder&#10;profileControler&#9;FILE&#9;file:///Users/songweiliang/workspace/testdoc/swl_web/src/main/java/tuniu/controller/ProfileControler.java" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../swl_service/src/test/java/com/nj" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../swl_service/src/main/java/tuniu/njsp/Sender.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="tuniu.controller" />
+      <recent name="com.nj" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work_space\code\testdoc\swl_web\src\main\webapp\WEB-INF" />
+      <recent name="D:\work_space\code\testdoc\swl_service\src" />
+      <recent name="D:\work_space\code\testdoc\swl_service" />
+      <recent name="D:\work_space\code\testdoc\swl_service\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nj" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../swl_web/src/main/webapp/WEB-INF/views" />
+      <recent name="D:\work_space\code\testdoc\swl_service\src\main\java\sjms\factory\jdgc" />
+      <recent name="D:\work_space\code\testdoc\swl_service\src\main\java" />
+      <recent name="D:\work_space\code\testdoc\swl_web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="ObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.com.ObjectTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="swl_service" />
+      <envs />
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.com.Test1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="swl_service" />
+      <envs />
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.com.Test2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="swl_service" />
+      <envs />
+    </configuration>
+    <configuration name="TestMybatis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tuniu.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="tuniu.controller.TestMybatis" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="swl_web" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+    </configuration>
+    <configuration name="MainConTrollerTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tuniu.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="swl_web" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="tuniu.controller" />
+      <option name="MAIN_CLASS_NAME" value="tuniu.controller.MainConTrollerTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" class="" method="" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.61" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="swl_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_swl_pom" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56750" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="swl_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="swl_pom" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestMybatis" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ObjectTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test2" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.MainConTrollerTest.test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MainConTrollerTest.test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ObjectTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestMybatis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ba83adb-8014-400b-8bfb-c9e9c1b76899" name="Default" comment="" />
+      <created>1497425519772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497425519772</updated>
+      <workItem from="1497425526347" duration="7426000" />
+      <workItem from="1497491667639" duration="12878000" />
+      <workItem from="1497589293218" duration="633000" />
+      <workItem from="1497836913555" duration="715000" />
+      <workItem from="1497941082441" duration="3691000" />
+      <workItem from="1497944890541" duration="574000" />
+      <workItem from="1497945528940" duration="1408000" />
+      <workItem from="1497950159746" duration="4370000" />
+      <workItem from="1498010586552" duration="2009000" />
+      <workItem from="1498030244297" duration="23000" />
+      <workItem from="1498618237416" duration="4064000" />
+      <workItem from="1498632146574" duration="8050000" />
+      <workItem from="1498718671815" duration="2985000" />
+      <workItem from="1498724247015" duration="1083000" />
+      <workItem from="1498789103997" duration="5523000" />
+      <workItem from="1499048916920" duration="163000" />
+      <workItem from="1499090438908" duration="2427000" />
+      <workItem from="1499132658730" duration="15214000" />
+      <workItem from="1499217882003" duration="2862000" />
+      <workItem from="1499267547945" duration="1032000" />
+      <workItem from="1499305978576" duration="5569000" />
+      <workItem from="1499391562829" duration="1198000" />
+      <workItem from="1499650979734" duration="2622000" />
+      <workItem from="1499737027471" duration="2416000" />
+      <workItem from="1499822802219" duration="1793000" />
+      <workItem from="1499870537870" duration="841000" />
+      <workItem from="1499910389833" duration="1064000" />
+      <workItem from="1500008570477" duration="871000" />
+      <workItem from="1500022864687" duration="2094000" />
+      <workItem from="1500256047609" duration="13047000" />
+      <workItem from="1500342056019" duration="5933000" />
+      <workItem from="1500427704298" duration="8809000" />
+      <workItem from="1500602354870" duration="9720000" />
+      <workItem from="1500861660578" duration="19926000" />
+      <workItem from="1500964526102" duration="2008000" />
+      <workItem from="1501032933667" duration="14695000" />
+      <workItem from="1501081550669" duration="520000" />
+      <workItem from="1501082099781" duration="2390000" />
+      <workItem from="1501119557297" duration="6211000" />
+      <workItem from="1501138219753" duration="122000" />
+      <workItem from="1501138361684" duration="5336000" />
+      <workItem from="1501206007372" duration="15296000" />
+      <workItem from="1501427128946" duration="2939000" />
+      <workItem from="1501464974276" duration="2637000" />
+      <workItem from="1501551449707" duration="1880000" />
+      <workItem from="1501594287404" duration="6876000" />
+      <workItem from="1501637226555" duration="703000" />
+      <workItem from="1501684525055" duration="2000" />
+      <workItem from="1501684673321" duration="631000" />
+      <workItem from="1501724216517" duration="12000" />
+      <workItem from="1501724477303" duration="1269000" />
+      <workItem from="1501731814338" duration="1431000" />
+      <workItem from="1502027442157" duration="10679000" />
+      <workItem from="1502161487072" duration="6486000" />
+      <workItem from="1502198129303" duration="6335000" />
+      <workItem from="1502242854440" duration="187000" />
+      <workItem from="1502245871575" duration="136000" />
+      <workItem from="1502246033129" duration="15507000" />
+      <workItem from="1502329336385" duration="3056000" />
+      <workItem from="1502334864084" duration="4645000" />
+      <workItem from="1502347915143" duration="11550000" />
+      <workItem from="1502417269031" duration="8643000" />
+      <workItem from="1502678201402" duration="9017000" />
+      <workItem from="1502762127742" duration="4757000" />
+      <workItem from="1502864669168" duration="4411000" />
+      <workItem from="1502935610136" duration="1224000" />
+      <workItem from="1503484997478" duration="4554000" />
+      <workItem from="1503543960933" duration="3307000" />
+      <workItem from="1503582015717" duration="10726000" />
+      <workItem from="1503638020864" duration="836000" />
+      <workItem from="1503884703404" duration="16092000" />
+      <workItem from="1503971330489" duration="20714000" />
+      <workItem from="1504626347204" duration="3176000" />
+      <workItem from="1504661640129" duration="12069000" />
+      <workItem from="1505307254839" duration="1021000" />
+      <workItem from="1505317285645" duration="3840000" />
+      <workItem from="1505354149008" duration="648000" />
+      <workItem from="1505366288609" duration="1211000" />
+      <workItem from="1505441220921" duration="695000" />
+      <workItem from="1505526912853" duration="589000" />
+      <workItem from="1505712140206" duration="1295000" />
+      <workItem from="1505784969674" duration="735000" />
+      <workItem from="1505800409591" duration="598000" />
+      <workItem from="1505828224282" duration="591000" />
+      <workItem from="1505885148707" duration="744000" />
+      <workItem from="1505889598389" duration="663000" />
+      <workItem from="1505891062772" duration="192000" />
+      <workItem from="1505891295236" duration="2070000" />
+      <workItem from="1505916692249" duration="3740000" />
+      <workItem from="1505957721835" duration="747000" />
+      <workItem from="1506654673671" duration="11485000" />
+      <workItem from="1506672198868" duration="4017000" />
+      <workItem from="1506737205736" duration="10719000" />
+      <workItem from="1507192982014" duration="3531000" />
+      <workItem from="1507276354734" duration="9949000" />
+      <workItem from="1507534369999" duration="5727000" />
+      <workItem from="1510384670703" duration="14569000" />
+      <workItem from="1510582265368" duration="1918000" />
+      <workItem from="1510625919115" duration="3767000" />
+      <workItem from="1511158823997" duration="944000" />
+      <workItem from="1511228793950" duration="1242000" />
+      <workItem from="1511262445319" duration="1653000" />
+      <workItem from="1511315844286" duration="1674000" />
+      <workItem from="1511491237217" duration="9744000" />
+      <workItem from="1511588507049" duration="10068000" />
+      <workItem from="1511746801308" duration="6091000" />
+      <workItem from="1511924607399" duration="1265000" />
+      <workItem from="1512006259458" duration="1726000" />
+      <workItem from="1512008129131" duration="622000" />
+      <workItem from="1512018368839" duration="2275000" />
+      <workItem from="1512092674921" duration="2074000" />
+      <workItem from="1512178912341" duration="1219000" />
+      <workItem from="1512378995735" duration="1522000" />
+      <workItem from="1512440299327" duration="9550000" />
+      <workItem from="1512627047197" duration="646000" />
+      <workItem from="1512722493901" duration="3138000" />
+      <workItem from="1513143841062" duration="3727000" />
+      <workItem from="1513232686757" duration="996000" />
+      <workItem from="1513307567436" duration="3552000" />
+      <workItem from="1513409295069" duration="1445000" />
+      <workItem from="1513515917909" duration="6028000" />
+      <workItem from="1513561619147" duration="2027000" />
+      <workItem from="1513606501882" duration="2651000" />
+      <workItem from="1513647879497" duration="3503000" />
+      <workItem from="1513674288270" duration="634000" />
+      <workItem from="1513735920856" duration="616000" />
+      <workItem from="1513823549893" duration="4361000" />
+      <workItem from="1517970437311" duration="2917000" />
+      <workItem from="1517991274074" duration="1408000" />
+      <workItem from="1518056121712" duration="5000" />
+      <workItem from="1518159057733" duration="4371000" />
+      <workItem from="1518922116805" duration="3000" />
+      <workItem from="1518922149765" duration="171000" />
+      <workItem from="1523532831271" duration="603000" />
+      <workItem from="1523845955894" duration="1109000" />
+      <workItem from="1523930784849" duration="544000" />
+      <workItem from="1526282678295" duration="5961000" />
+      <workItem from="1526609690547" duration="1259000" />
+      <workItem from="1526868986729" duration="125000" />
+      <workItem from="1532483741444" duration="1073000" />
+      <workItem from="1532597414473" duration="2454000" />
+      <workItem from="1534684071107" duration="2041000" />
+      <workItem from="1534720089073" duration="2369000" />
+      <workItem from="1535271717045" duration="7335000" />
+      <workItem from="1535363825175" duration="1788000" />
+      <workItem from="1535528535305" duration="2940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MainConTrollerTest_test - 2018.08.27 at 08h 14m 08s.xml">
+      <configuration name="MainConTrollerTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainConTrollerTest_test - 2018.08.27 at 08h 14m 44s.xml">
+      <configuration name="MainConTrollerTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainConTrollerTest_test - 2018.08.27 at 08h 20m 24s.xml">
+      <configuration name="MainConTrollerTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainConTrollerTest_test - 2018.08.27 at 08h 20m 38s.xml">
+      <configuration name="MainConTrollerTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainConTrollerTest_test - 2018.08.27 at 08h 41m 27s.xml">
+      <configuration name="MainConTrollerTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainConTrollerTest_test - 2018.08.27 at 08h 42m 14s.xml">
+      <configuration name="MainConTrollerTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainConTrollerTest_test - 2018.08.27 at 08h 42m 26s.xml">
+      <configuration name="MainConTrollerTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainConTrollerTest_test - 2018.08.27 at 08h 42m 33s.xml">
+      <configuration name="MainConTrollerTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisUtilTest - 2017.08.11 at 15h 24m 38s.xml">
+      <configuration name="RedisUtilTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisUtilTest_all - 2017.08.11 at 15h 06m 43s.xml">
+      <configuration name="RedisUtilTest.all" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="584628000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44117647" sideWeight="0.52420574" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1702432" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27609682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22541603" sideWeight="0.75980395" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1328125" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33955225" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35820895" sideWeight="0.48789713" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37810946" sideWeight="0.47579426" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.48487142" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2761087" sideWeight="0.24019608" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22541603" sideWeight="0.75980395" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12418301" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44117647" sideWeight="0.52420574" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26609442" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27609682" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22541603" sideWeight="0.75980395" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1328125" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34042552" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35820895" sideWeight="0.48789713" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37919462" sideWeight="0.47579426" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.48487142" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22603719" sideWeight="0.24019608" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22541603" sideWeight="0.75980395" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12418301" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/test/com/nj/CDListTest.java</url>
+          <line>21</line>
+          <properties class="test.com.nj.CDListTest" method="testPlay" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/com/nj/Paixu.java</url>
+          <line>71</line>
+          <properties class="com.nj.StrComparator" />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/tuniu/njsp/Couter.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/compment/RestUtil.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/tuniu/njsp/TcpSocket.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/nio/Server.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/anotation/AnnotationTest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/nio/NioSelector.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/tuniu/njsp/ByteArrayDemo.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../swl_service/src/main/java/tuniu/njsp/testDe.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.6.0_43/src.zip!/java/util/Date.java</url>
+          <line>957</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="120" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../swl_web/target/swl_web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/resources/spring-cache.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/resources/Application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/resources/sqlMap/User.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/log.txt" />
+    <entry file="file://$PROJECT_DIR$/../swl_service/src/main/java/anotation/AnnotationDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_service/src/main/java/anotation/AnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_service/src/main/java/anotation/ParamAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_service/src/main/java/anotation/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_service/src/main/java/anotation/StdAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_service/src/main/java/anotation/StudentDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_service/src/main/java/fork/SandboxForkJoinTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_service/src/main/java/test/com/RedisTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_service/src/main/java/test/com/ObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/sqlmap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SandboxLogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SandboxDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/sandbox-log.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="159" column="28" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="194" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SanboxLogServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SanboxLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/SanboxLogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/test/mobilelog-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/TestMybatis.java" />
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/ProfileControler.java" />
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/MvcConfig.java" />
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/webapp/WEB-INF/views/test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/spittr/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/spittr/SpittrWebAppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#329#330#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#506#507#0" expanded="false" />
+            <element signature="e#567#568#0" expanded="false" />
+            <element signature="e#607#608#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/spittr/RootConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="67" column="19" lean-forward="false" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/servlet-api/6.0.26/servlet-api-6.0.26.jar!/javax/servlet/ServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/servlet-api/6.0.26/servlet-api-6.0.26.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/servlet-api/6.0.26/servlet-api-6.0.26.jar!/javax/servlet/ServletContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.1.RELEASE/spring-test-4.1.1.RELEASE.jar!/org/springframework/mock/web/MockHttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.1.RELEASE/spring-test-4.1.1.RELEASE.jar!/org/springframework/test/web/servlet/RequestBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.jar!/org/springframework/http/HttpMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/net/URI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="586" column="11" lean-forward="false" selection-start-line="586" selection-start-column="11" selection-end-line="586" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.1.RELEASE/spring-test-4.1.1.RELEASE.jar!/org/springframework/test/web/servlet/MockMvc.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.1.RELEASE/spring-test-4.1.1.RELEASE.jar!/org/springframework/test/web/servlet/result/MockMvcResultMatchers.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.1.RELEASE/spring-test-4.1.1.RELEASE.jar!/org/springframework/test/web/servlet/request/MockMvcRequestBuilders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <marker date="1516605769805" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1516605769805" expanded="false" signature="168:437" ph="..." />
+            <marker date="1516605769805" expanded="true" signature="522:529" ph="{}" />
+            <marker date="1516605769805" expanded="true" signature="627:727" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="790:868" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="967:1068" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="1132:1211" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="1309:1409" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="1472:1550" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="1650:1752" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="1817:1897" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="1998:2101" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="2167:2248" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="2350:2454" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="2521:2603" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="2702:2803" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="2867:2946" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3071:3167" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3257:3331" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3445:3538" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3617:3688" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3764:4075" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3802:4068" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3890:4058" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.1.RELEASE/spring-test-4.1.1.RELEASE.jar!/org/springframework/test/web/servlet/setup/StandaloneMockMvcBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="195" column="42" lean-forward="false" selection-start-line="195" selection-start-column="42" selection-end-line="195" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.jar!/org/springframework/web/util/UriComponentsBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.1.RELEASE/spring-test-4.1.1.RELEASE.jar!/org/springframework/test/web/servlet/request/MockHttpServletRequestBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <marker date="1516605769805" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1516605769805" expanded="false" signature="168:1659" ph="..." />
+            <marker date="1516605769805" expanded="true" signature="2890:3173" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3241:3464" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3544:3631" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="3712:4040" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="4116:4599" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="4675:4881" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="4956:5131" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="5203:5665" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="5732:5792" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="5859:6034" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="6103:6312" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="6377:6435" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="6513:6584" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="6666:6751" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="6833:6925" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="7020:7347" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="7427:7517" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="7608:7925" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="8001:8124" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="8198:8329" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="8404:8747" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="8822:9165" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="9234:9439" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="9505:9563" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="9647:9791" ph="{...}" />
+            <marker date="1516605769805" expanded="false" signature="9828:9839" ph=" { " />
+            <marker date="1516605769805" expanded="false" signature="9851:9857" ph=" }" />
+            <marker date="1516605769805" expanded="true" signature="9898:13831" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="13883:14223" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="14309:17944" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="18035:18101" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="18199:18963" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="19044:19655" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="19742:20226" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="20330:20711" ph="{...}" />
+            <marker date="1516605769805" expanded="true" signature="20807:20963" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/bean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/istack/internal/NotNull.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swl_pom.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1094">
+          <caret line="168" column="21" lean-forward="true" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/test/tuniu/controller/MainConTrollerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/controller/MainConTroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../swl_web/src/main/java/tuniu/bean/FirstRestBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>swl_web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>swl_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

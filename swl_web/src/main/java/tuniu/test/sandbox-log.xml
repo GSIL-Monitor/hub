@@ -1,0 +1,195 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE sqlMap PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN" "http://ibatis.apache.org/dtd/sql-map-2.dtd">-->
+<!--<sqlMap namespace="SandboxLog">-->
+    <!--<resultMap id="resultInfo" class="com.dianping.mobile.basic.remote.prisma.dto.SandboxDto">-->
+        <!--<result column="id" property="id"/>-->
+        <!--<result column="logType" property="logType"/>-->
+        <!--<result column="appVersion" property="appVersion"/>-->
+        <!--<result column="size" property="size"/>-->
+        <!--<result column="dpId" property="dpId"/>-->
+        <!--<result column="dpIdCrc32" property="dpIdCrc32"/>-->
+        <!--<result column="unionId" property="unionId"/>-->
+        <!--<result column="unionIdCrc32" property="unionIdCrc32"/>-->
+        <!--<result column="appId" property="appId"/>-->
+        <!--<result column="sysVersion" property="sysVersion"/>-->
+        <!--<result column="deviceModel" property="deviceModel"/>-->
+        <!--<result column="logTime" property="logTime"/>-->
+        <!--<result column="createTime" property="createTime"/>-->
+        <!--<result column="updateTime" property="updateTime"/>-->
+    <!--</resultMap>-->
+
+    <!--<insert id="insertDo">-->
+        <!--INSERT INTO sandbox_log(-->
+        <!--<dynamic>-->
+            <!--<isNotNull property="insertDto.logType" prepend="">-->
+                <!--`logType`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.appVersion" prepend=",">-->
+                <!--`appVersion`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.size" prepend=",">-->
+                <!--`size`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.dpId" prepend=",">-->
+                <!--`dpId`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.dpIdCrc32" prepend=",">-->
+                <!--`dpIdCrc32`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.unionId" prepend=",">-->
+                <!--`unionId`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.unionIdCrc32" prepend=",">-->
+                <!--`unionIdCrc32`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.appId" prepend=",">-->
+                <!--`appId`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.sysVersion" prepend=",">-->
+                <!--`sysVersion`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.deviceModel" prepend=",">-->
+                <!--`deviceModel`-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.logTime" prepend=",">-->
+                <!--`logTime`-->
+            <!--</isNotNull>-->
+        <!--</dynamic>-->
+        <!--)-->
+        <!--VALUES (-->
+        <!--<dynamic>-->
+            <!--<isNotNull property="insertDto.logType" prepend="">-->
+                <!--#insertDto.logType#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.appVersion" prepend=",">-->
+                <!--#insertDto.appVersion#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.size" prepend=",">-->
+                <!--#insertDto.size#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.dpId" prepend=",">-->
+                <!--#insertDto.dpId#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.dpIdCrc32" prepend=",">-->
+                <!--#insertDto.dpIdCrc32#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.unionId" prepend=",">-->
+                <!--#insertDto.unionId#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.unionIdCrc32" prepend=",">-->
+                <!--#insertDto.unionIdCrc32#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.appId" prepend=",">-->
+                <!--#insertDto.appId#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.sysVersion" prepend=",">-->
+                <!--#insertDto.sysVersion#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.deviceModel" prepend=",">-->
+                <!--#insertDto.deviceModel#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="insertDto.logTime" prepend=",">-->
+                <!--#insertDto.logTime#-->
+            <!--</isNotNull>-->
+        <!--</dynamic>-->
+        <!--)-->
+        <!--<selectKey resultClass="int" keyProperty="id">-->
+            <!--SELECT @@IDENTITY AS ID-->
+        <!--</selectKey>-->
+    <!--</insert>-->
+
+
+    <!--<insert id="batchInsertDo" parameterClass="map">-->
+
+        <!--insert into sandbox_log(-->
+        <!--`logType`,-->
+        <!--`appVersion`,-->
+        <!--`size`,-->
+        <!--`dpId`,-->
+        <!--`dpIdCrc32`,-->
+        <!--`appId`,-->
+        <!--`unionId`,-->
+        <!--`unionIdCrc32`,-->
+        <!--`sysVersion`,-->
+        <!--`deviceModel`,-->
+        <!--`logTime`-->
+        <!--)VALUES-->
+        <!--<iterate property="dtoList" conjunction=",">-->
+            <!--(-->
+            <!--#dtoList[].logType#,-->
+            <!--#dtoList[].appVersion#,-->
+            <!--#dtoList[].size#,-->
+            <!--#dtoList[].dpId#,-->
+            <!--#dtoList[].dpIdCrc32#,-->
+            <!--#dtoList[].appId#,-->
+            <!--#dtoList[].unionId#,-->
+            <!--#dtoList[].unionIdCrc32#,-->
+            <!--#dtoList[].sysVersion#,-->
+            <!--#dtoList[].deviceModel#,-->
+            <!--#dtoList[].logTime#-->
+            <!--)-->
+        <!--</iterate>-->
+
+        <!--<selectKey resultClass="int" keyProperty="id">-->
+            <!--SELECT @@IDENTITY AS id-->
+        <!--</selectKey>-->
+
+    <!--</insert>-->
+
+    <!--<select id="queryByCondition" resultMap="resultInfo" parameterClass="map">-->
+        <!--SELECT * FROM sandbox_log-->
+        <!--<dynamic prepend="WHERE">-->
+            <!--<isNotNull property="queryDto.logType" prepend="">-->
+                <!--`logType`=#queryDto.logType#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="queryDto.appVersion" prepend=",">-->
+                <!--`appVersion`=#queryDto.appVersion#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="queryDto.size" prepend=",">-->
+                <!--`size`=#queryDto.size#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="queryDto.dpId" prepend=",">-->
+                <!--`dpId`=#queryDto.dpId#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="queryDto.dpIdCrc32" prepend=",">-->
+                <!--`dpId`=#queryDto.dpIdCrc32#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="queryDto.appId" prepend=",">-->
+                <!--`appId`=#queryDto.appId#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="queryDto.unionId" prepend=",">-->
+                <!--`unionId`=#queryDto.unionId#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="queryDto.unionIdCrc32" prepend=",">-->
+                <!--`unionId`=#queryDto.unionIdCrc32#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="queryDto.sysVersion" prepend=",">-->
+                <!--`sysVersion`=#queryDto.sysVersion#-->
+            <!--</isNotNull>-->
+            <!--<isNotNull property="queryDto.logTime" prepend=",">-->
+                <!--`logTime`=#queryDto.logTime#-->
+            <!--</isNotNull>-->
+            <!--order by id desc limit 1000-->
+        <!--</dynamic>-->
+    <!--</select>-->
+
+    <!--<select id="queryByLogTimeAndDpId" parameterClass="map" resultMap="resultInfo">-->
+        <!--SELECT * FROM sandbox_log-->
+        <!--WHERE `logTime` BETWEEN #queryDto.fromTime#-->
+        <!--and #queryDto.endTime#-->
+        <!--and `dpIdCrc32`=#queryDto.dpIdCrc32#-->
+    <!--</select>-->
+
+    <!--<select id="queryAllByLogTime" parameterClass="map" resultMap="resultInfo">-->
+        <!--SELECT * FROM sandbox_log-->
+        <!--WHERE `logTime` BETWEEN #queryDto.fromTime#-->
+        <!--and #queryDto.endTime#-->
+    <!--</select>-->
+    <!--<select id="queryByLogTimeAndUnionId" parameterClass="map" resultMap="resultInfo">-->
+        <!--SELECT * FROM sandbox_log-->
+        <!--WHERE `logTime` BETWEEN #queryDto.fromTime#-->
+        <!--and #queryDto.endTime#-->
+        <!--and `unionIdCrc32`=#queryDto.unionIdCrc32#-->
+    <!--</select>-->
+
+<!--</sqlMap>-->
